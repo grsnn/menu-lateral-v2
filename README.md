@@ -1,7 +1,7 @@
 # menu-lateral-v2
 
 Comparto menu lateral adaptable a dispositivos mobiles
-![Alt text](image/img1.png "menu lataral")
+![Alt text](image/img.png "menu lataral")
 ![Alt text](image/img2.png "menu lataral")
 
 
